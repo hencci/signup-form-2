@@ -12,12 +12,13 @@
 
 body {
     height: 90vh;
+    width: 100vw;
     background-color: black;
 }
 
 .container {
     height: 100%;
-    width: 100vw;
+    width: 100%;
     align-items: center;
     margin: 2rem 0;
     background-color: white;
@@ -45,4 +46,23 @@ body {
     color: white;
     font-size: 4rem;
     font-family: 'Courier New', Courier, monospace;
+}
+
+.right-container {
+    width: 60%;
+    height: 100%;
+    background-color: aliceblue;
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.bold {
+    line-height: 1.5rem;
+    padding: 6rem 3rem 2rem;
+    font-size: 1rem;
+    font-weight: 700;
 }
