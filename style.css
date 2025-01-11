@@ -9,3 +9,18 @@
     display: flex;
     justify-content: center;
 }
+
+body {
+    height: 90vh;
+    background-color: black;
+}
+
+.container {
+    height: 100%;
+    width: 100vw;
+    align-items: center;
+    margin: 2rem 0;
+    background-color: white;
+    color: black;
+    border: 10px solid black;
+}
