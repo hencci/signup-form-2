@@ -4,3 +4,8 @@
     box-sizing: border-box;
     font-family: "roboto", sans-serif;
 }
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
