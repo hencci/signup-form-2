@@ -66,3 +66,14 @@ body {
     font-size: 1rem;
     font-weight: 700;
 }
+
+.form {
+    background-color: white;
+    display: grid;
+    justify-content: flex-start;
+    grid-template-rows: 40px 40px 40px;
+    grid-template-columns: 200px 200px;
+    padding: 2rem 3rem;
+    gap: 2rem;
+    box-shadow: 0 5px 14px #dcdcdc;
+}
