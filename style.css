@@ -77,3 +77,19 @@ body {
     gap: 2rem;
     box-shadow: 0 5px 14px #dcdcdc;
 }
+
+button {
+    margin: 1rem 3rem;
+    font-size: 1.2rem;
+    background-color: #757575;
+    color: white;
+    border: none;
+    padding: 0.5rem;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 20%;
+}
+
+button:active {
+    box-shadow: 0 5px 5px #dcdcdc;
+}
