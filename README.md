@@ -21,9 +21,9 @@ It is not responsive on mobile view.
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/hencci/Calculator-2.git
+   git clone https://github.com/hencci/signup-form-2.git
 2. Navigate to the project directory:
-   cd Calculator-2
+   cd signup-form-2
 3. Open the index.html file in a web browser.
 
 ### Screenshot
