@@ -16,7 +16,7 @@ It is not responsive on mobile view.
 ## Technologies Used
 
 * **HTML**: Structure of the web page.
-* **CSS**: Styling and layout of the calculator.
+* **CSS**: Styling and layout of the page.
 
 ## Installation
 
