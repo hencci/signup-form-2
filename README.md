@@ -28,7 +28,7 @@ It is not responsive on mobile view.
 
 ### Screenshot
 
-Here’s a screenshot of the calculator in action:
+Here’s a screenshot of the completed project:
 ![Screenshot](./images/sign-up.PNG)
 
 ## Contributing
